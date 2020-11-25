@@ -1,6 +1,6 @@
 # Hey Devs, I'm Aaryan 👋💚
 
-### Upcoming Fullstack Developer, Reacting on Web Development using react.js😁, Learning to code for solving your problems.
+### _Upcoming _Fullstack Developer_, Reacting on Web Development using **react.js**😁, Learning to code for solving your problems._
 
 <!--
 **ImAR45/ImAR45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
