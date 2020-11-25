@@ -2,6 +2,13 @@
 
 ### _Upcoming _Fullstack Developer_, Reacting on Web Development using **react.js**😁, Learning to code for solving your problems._
 
+<p align='center'>
+<a href="https://twitter.com/choubey_aryan"><img height="30" src="https://github.com/ImAR45/ImAR45/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/imaryan45"><img height="30" src="https://github.com/ImAR45/ImAR45/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aaryan-choubey-a5344018b/"><img height="30" src="https://github.com/ImAR45/ImAR45/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+
 <!--
 **ImAR45/ImAR45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
